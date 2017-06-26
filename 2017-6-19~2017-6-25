@@ -1,0 +1,6 @@
+[done]梯度测试通过了迁移到3.0版本的LSTM，修复若干bug，包括找到了PMultiNode的bug
+[done]用LSTM做实验，达到了加了dropout的CNN的准确率
+[done]读Stance Detection with Bidirectional Conditional Encoding
+[done]解析立场检测的数据集
+[done]和穆明武讨论怎么根据依存树生成RNN
+[doing]完成conditional encoding的LSTM
