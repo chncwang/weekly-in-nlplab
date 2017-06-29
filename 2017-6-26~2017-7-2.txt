@@ -1,0 +1,5 @@
+[done]完成conditional encoding的LSTM
+[done]用standford tokenizer预处理tweet数据
+[done]统计有监督训练下favor和against立场的准确率、召回率、F值
+[doing]对unseen target的测试数据做实验
+[doing]梯度测试最新版的N3LDG
