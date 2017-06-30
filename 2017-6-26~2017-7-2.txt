@@ -3,4 +3,3 @@
 [done]统计有监督训练下favor和against立场的准确率、召回率、F值
 [done]梯度测试LSTM中6种节点
 [doing]对unseen target的测试数据做实验
-[doing]debug N3LDGStanceDetector中的内存越界访问问题
