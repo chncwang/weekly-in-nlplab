@@ -2,4 +2,7 @@
 [done]用standford tokenizer预处理tweet数据
 [done]统计有监督训练下favor和against立场的准确率、召回率、F值
 [done]梯度测试LSTM中6种节点
-[doing]对unseen target的测试数据做实验
+[done]处理一个因为设置参数时dim不对导致的内存错误（因为误信Visual Studio的错误定位浪费不少时间，后用valgrind找到错误）
+[done]听宋阳的AIClub分享
+[doing]对unseen target的测试数据做实验，应用了余南给的词向量模型文件后，有较大提升
+[doing]读取二进制的词向量模型文件
