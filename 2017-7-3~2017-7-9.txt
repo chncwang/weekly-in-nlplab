@@ -1,0 +1,2 @@
+[done] 用论文的repo生成txt格式的词向量模型文件
+[doing] 用论文的repo生成twokenized数据集
