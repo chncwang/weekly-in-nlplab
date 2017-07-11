@@ -6,4 +6,4 @@
 [done] 对LSTM的输出作了pooling，效果下降
 [done] 在AI Club做《基于MCTS的围棋AI》的分享
 [done] 帮曹雪搬家
-[doing] 读论文repo源代码，跑repo看代码（repo用了一个古老的tensorflow版本，一阵折腾后发现只能在mac上装）
+[doing] 读论文repo源代码，跑repo中的代码（repo用了一个古老的tensorflow版本，一阵折腾后发现只能在mac上装）
