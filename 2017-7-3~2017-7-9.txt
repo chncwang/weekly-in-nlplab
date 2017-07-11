@@ -3,7 +3,7 @@
 [done] 重写conditional LSTM模型，去掉过度抽象，提高可读性
 [done] 使用concat bi LSTM模型做实验，发现用上target的信息略好于不用target
 [done] 应用词向量模型后做实验，调参，效果离论文还差9个点
+[done] 对LSTM的输出作了pooling，效果下降
+[done] 在AI Club做《基于MCTS的围棋AI》的分享
 [done] 帮曹雪搬家
-[doing] 读论文源代码
-[doing] 在AI Club做《基于MCTS的围棋AI》的分享
-TODO float ==的bug
+[doing] 读论文repo源代码，跑repo看代码（repo用了一个古老的tensorflow版本，一阵折腾后发现只能在mac上装）
